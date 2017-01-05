@@ -7,20 +7,35 @@ h1{
 nav{
 
 }
-aside{
+ul{
 
 }
-aside div{
+li{
+
+}
+aside{
 
 }
 section{
 
 }
+.floats{
+
+}
+.floats button{
+
+}
 div aside{
+
+}
+div aside button{
 
 }
 footer{
 
+}
+small{
+	
 }
 font-family: 'Merriweather', serif;
 font-family: 'Oswald', sans-serif;
