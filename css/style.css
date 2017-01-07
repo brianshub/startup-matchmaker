@@ -1,41 +1,95 @@
+body{
+	font-family: 'Source Sans Pro', sans-serif; 
+}
+#container {
+  width: 960px;
+  margin: 0 auto;
+}
 header{
-
+	background-color: black;
 }
 h1{
-
+	color: yellow;
+	font-family: 'Merriweather', serif;
+}
+button{
+	font-family: 'Oswald', sans-serif;
 }
 nav{
-
+	font-family: 'Oswald', sans-serif;
 }
 ul{
-
+	text-align: right;
 }
 li{
-
+	display: inline-block;
+	
+}
+a{
+	text-decoration: none;
+}
+li a{
+	color: white;
+	text-decoration: none;
+	
 }
 aside{
-
+	
+}
+.first{
+	background-color: grey;
+	text-align: center;
+	font-family: 'Merriweather', serif;
 }
 section{
-
+	background-image: url("images/coworking.jpg");
+	background-repeat: none;
+	height: 600px;
 }
-.floats{
-
+section h1{
+	color: black;
+}
+#floats{
+	width: 40%;
 }
 .floats button{
 
 }
 div aside{
+	/*width: 30%;
+	display: inline-block;*/
+}
+aside h1{
+	color: black;
+}
+.second{
+	width: 320px;
+	display: inline-block;
+}
+
+
+.third{
+	width: 320px;
+	display: inline-block;
+	
+	
+
+}	
+.fourth{
+	width: 320px;
+	display: inline-block;
+
 
 }
 div aside button{
 
 }
 footer{
+	background-color: black;
 
 }
 small{
-	
+	color: white;
 }
 font-family: 'Merriweather', serif;
 font-family: 'Oswald', sans-serif;
